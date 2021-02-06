@@ -60,7 +60,7 @@ Employee
 
 ### Configuration
 
-The configuration file is <a href="src/main/java/resources/application.properties">application.properties</a>.
+The configuration file is <a href="src/main/resources/application.properties">application.properties</a>.
 
 ### Database
 
