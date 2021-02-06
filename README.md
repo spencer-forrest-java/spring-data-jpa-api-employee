@@ -60,7 +60,8 @@ Employee
 
 ### Configuration
 
-The configuration file is <a href="src/main/resources/application.properties">application.properties</a>.
+The <a href="src/main/resources/application.properties">application.properties</a> file contains the information needed 
+for the application to connect to a database (url, username, password).
 
 ### Database
 
